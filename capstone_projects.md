@@ -1,5 +1,13 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
+## CHARLIE 2019
+
+[ThoughtFull](https://nameless-oasis-66768.herokuapp.com/) - Chris, Dylan, Randy, Jason <br />
+Team Thoughtfull's app helps you slow down and process thoughts so you can remember more significant moments in your life.
+
+[History in Motion](https://radiant-bastion-26413.herokuapp.com/) - Paige, Amanda, Evan, Jared <br />
+History in Motion is a guided walking tour app with walks around downtown San Diego, California. Whether you want to checkout some historic bars, buildings, or places in history this is the app for you!
+
 ## BRAVO 2019
 
 [Bar Tab](https://stark-citadel-11929.herokuapp.com/) - Luke, Kyle, Aaron, Peter <br />
