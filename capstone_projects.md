@@ -8,6 +8,13 @@ Team Thoughtfull's app helps you slow down and process thoughts so you can remem
 [History in Motion](https://radiant-bastion-26413.herokuapp.com/) - Paige, Amanda, Evan, Jared <br />
 History in Motion is a guided walking tour app with walks around downtown San Diego, California. Whether you want to checkout some historic bars, buildings, or places in history this is the app for you!
 
+
+[Glass Track](https://guarded-garden-91447.herokuapp.com/) - Rachael, Lior, Chris, Jonah, Jessa <br />
+Glass Track is an inventory management system for bars that uses the Square Inventory and Catalog API in lieu of databases. Inventory, updates, and pricing can also be viewed separately on the Square dashboard for your company.
+
+[YouAnalytics](https://immense-sierra-25184.herokuapp.com/) - Lali, Josh, Dimitri, Brenda, Jack <br />
+YouAnalytics helps YouTube content creators gather all of their channels in one place and view current, relevant info relating to each channel.
+
 ## BRAVO 2019
 
 [Bar Tab](https://stark-citadel-11929.herokuapp.com/) - Luke, Kyle, Aaron, Peter <br />
