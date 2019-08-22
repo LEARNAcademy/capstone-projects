@@ -1,1 +1,1 @@
-Description of and links to Capstone Projects for LEARN academy cohorts
+Description of and links to Capstone Projects for LEARN academy cohorts in 2019
