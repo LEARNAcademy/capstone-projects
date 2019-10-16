@@ -1,5 +1,12 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
+## DELTA 2019
+[Get Down](https://quiet-peak-08707.herokuapp.com/) - Jonathon, Adam, Conor, Jon, Kayta <br />
+Get Down is an app that allows the community to stay connected to a wide range of local events where users can join and discuss plans.
+
+[Human_Kind](http://cryptic-crag-66013.herokuapp.com/) - Josh, Brian, Drew, Juan, Rob, Sebastian <br />
+A social platform designed for users to go and promote their good deeds!
+
 ## CHARLIE 2019
 
 [ThoughtFull](https://nameless-oasis-66768.herokuapp.com/) - Chris, Dylan, Randy, Jason <br />
