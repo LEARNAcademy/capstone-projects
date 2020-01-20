@@ -1,7 +1,10 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
 ## ECHO 2019
-[Career Track](http://career-track-kali.herokuapp.com/) - Arvin, Lisa, Kalvin, Ian
+[Echo Net](http://echo-net.herokuapp.com/) - Christi, Joe, Ryan, Yumi <br />
+Echo Net is a contact management app that allows you to add contacts, import contacts from Github, search through articles, manage to-dos, and more.
+
+[Career Track](http://career-track-kali.herokuapp.com/) - Arvin, Lisa, Kalvin, Ian <br />
 Career Track is a job hunt management software that helps job seekers keep track of their jobs as they manage their job search.
 
 ## DELTA 2019
