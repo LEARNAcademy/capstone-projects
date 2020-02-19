@@ -15,6 +15,9 @@ Hidden Gems is a site where locals share their favorite places and events (in Sa
 <br />
 TripPlanner is an app that lets you keep track of your upcoming and past trips. It lets you create an itinerary for your upcoming trip that you can then share with your friends via email.
 
+[LEARN Students](https://obscure-reaches-13754.herokuapp.com/) - Kristen, Jake, Michael, Ofrey
+<br />
+An open-source website application made by Learn Students for Learn Students. This application allows users to sign in with an email or through Github and study important, key concepts using flashcards to excel both in the class and during technical interviews. The user also has the ability to manage their own flashcard list and add additional vocabulary if they choose.
 
 
 ## ECHO 2019
