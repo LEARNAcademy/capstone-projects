@@ -11,6 +11,11 @@ FermCal is a fermentation management app for ambitious brewers and picklers. The
 Hidden Gems is a site where locals share their favorite places and events (in San Diego). You must join and contribute to have access to the gem information submitted by others.
 (For locals by locals)
 
+[TripPlanner](https://glacial-bastion-31936.herokuapp.com/) - Jeel, Aizada, Diego, Ernesto
+<br />
+TripPlanner is an app that lets you keep track of your upcoming and past trips. It lets you create an itinerary for your upcoming trip that you can then share with your friends via email.
+
+
 
 ## ECHO 2019
 
