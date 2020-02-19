@@ -6,9 +6,9 @@
 <br />
 FermCal is a fermentation management app for ambitious brewers and picklers. The aim of FermCal is to give home fermentors a lightweight tool for keeping track of landmark events in the lifespan of a beer or pickle. Team #batchbois is proud to have built this adorable haven for germs and those who love them!
 
-[Hidden Gem](https://nameless-savannah-62731.herokuapp.com/) - Kayla, Charlie, Mary, Jose, Morganne
+[Hidden Gems](https://nameless-savannah-62731.herokuapp.com/) - Kayla, Charlie, Mary, Jose, Morganne
 <br />
-Hidden Gem is a site where locals share their favorite places and events (in San Diego). You must join and contribute to have access to the gem information submitted by others.
+Hidden Gems is a site where locals share their favorite places and events (in San Diego). You must join and contribute to have access to the gem information submitted by others.
 (For locals by locals)
 
 
