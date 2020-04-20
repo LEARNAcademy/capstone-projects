@@ -15,6 +15,6 @@ Stock Byte is brokerage agnostic. If you have holdings with different firms (Rob
 
 Stock Byte also comes with a playground mode allowing for strategy testing before you commit new trades or for simple bragging rights with your friends using the leaderboard.
 
-[Tiqqit](www.Tiqqit.net) - Rudy, Andee, Tsz, Danny
+[Tiqqit](http://www.tiqqit.net/) - Rudy, Andee, Tsz, Danny
 <br />
 Tiqqit is a minimalistic open source bug tracking tool, allowing its users to create, edit, delete tickets, and upload images. Built on React on Rails, it features Devise as its account authorization and authentication along with Giphy API for some fun easter eggs.
