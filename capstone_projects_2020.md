@@ -1,8 +1,32 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
+## BRAVO 2020
+
+[Community Kitchen](https://floating-reaches-65868.herokuapp.com/) - Ruben, Ara, Jazmyn, April
+<br />
+During these hard times we’re living in, the need for community is stronger than ever.
+And not just a community for specific people or classes, but a community that would benefit everyone. Thus Community Kitchen was born.
+The way it works is If you have food that you can donate you can list your items on Community Kitchen for anyone that may need a meal. So many of our neighborhoods are experiencing a need for food due to illness and/or lack of money to purchase food.
+Thus a hopeful solution to a problem we are experiencing in our world today.
+
+[StarSale](https://frozen-falls-51923.herokuapp.com/) - Thomas, Aaron, Nikki, Chantelle
+<br />
+Hi, we're Thomas, Aaron, Nikki, and Chantelle.
+Together, we're team TANC (because team names are hard).
+Do you waste time driving around your neighborhood, looking for yard-sale signs? Do you waste time and money creating posters for your yard-sale, only to have no one show up because you picked the wrong street corners? Are other sale apps too crowded with single-item offers? Do you wish there was a platform by yard-salers, for yard-salers? Look no further! We've created STARSALE!
+
+Users can log-in, create, and market their sale to their key demographic - people who are looking to find great deals! One man's trash can definitely be someone else's treasure, and StarSale makes it easy to make some money. You can promote key items that will draw in the crowds to clear out your piles of unused household items.
+Just looking to shop? Use StarSale to engage in your local community. Plan and prioritize all your top must-go sale locations with distance filters, date filters and a STAR system that lets you save your faves. Save money by buying used items! Help save the planet by reducing your new purchases and helping recycle perfectly good items from your neighbors.
+
+Sell - Buy - Save - with StarSale
+
+[Happy Trails](https://happytrailsproject.herokuapp.com/) - Jeremy, Chrissie, Austin
+<br />
+Happy Trails is an accessibility focused trail-finding app. While finding hikes is made easier everyday by groups like google and information from the larger outdoors community -- knowledge of accessibility features is not widely known or shared. Happy Trails sets out to catalogue, archive, and disseminate information regarding accessibility of the great outdoors all around us.
+
 ## ALPHA 2020
 
-[PikaMovie](https://pikamovie.herokuapp.com/ ) - Jonas, Liz, Heya, Meo
+[PikaMovie](https://pikamovie.herokuapp.com/) - Jonas, Liz, Heya, Meo
 <br />
 PikaMovie is an app that tackles the modern day decision fatigue by allowing users to quickly arrive at a decision that we must make ever so often: What To Watch? You will be able to store decisions in your account, save your favorite movies and add your own notes. Sign up and let our app make decisions for you!
 
