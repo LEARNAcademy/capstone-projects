@@ -1,7 +1,22 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
+## DELTA 2020
+[ LifeBand ](https://fathomless-woodland-26064.herokuapp.com/) - Bach, Diem, Nate  
+Oftentimes, when a person is brought incapacitated or nonverbal to the ER, their loved ones are not able to provide medical professionals the vital information necessary to give the individual the best possible care. Because of this, many people live in fear, choosing to not pursue risky activities or even eat at new restaurants in case the need for medical attention arises with professionals who do not know them or their needs. LifeBand is a simple but life changing tool that we have developed to help give each individual the opportunity to take their life back from their ailments. We here at Life Science Rejects understand that every person is unique in their medical needs and that they must be communicated, no matter what! When you create an account with LifeBand, you are simply filling out a form giving all important information that YOU as the patient would like to be known. A QR code is then generated for you to share with your loved ones that redirects to your profile. We urge you to take care of yourself and be an advocate for your health, so let's band up on LifeBand!
+
+[ Pagelender ](http://pagelender.herokuapp.com/) - David, Drew, Joel  
+Are you not a fan of ebooks and screens? Do you prefer to have a physical text in your hand but lack the space to keep them? Do you love the smell of paper, running your fingers through the texture of the parchment, and the sensation you get when you turn the page and you’re just that much closer to finishing a book? We’re Pagelender, an easy to use alternative to help you borrow or lend a book to others in your area. If you just don’t have the space to keep books or want to prevent eye fatigue, then use Pagelender to save space, read, and enjoy!
+
+[ Ticity App ](https://ticityapp.herokuapp.com/) - Brian, Chuck, Matt  
+T(he) I(deal) City  
+Are you looking for affordable housing? How about the latest hotspot for Startup companies and Venture Capitalists?   
+We can help you find your next new adventure. Try the new TICity application!  
+Our app will allow you to search North American cities to find what’s most important to you.  
+TICity will return a list of the best places to go, based on your criteria. You even have the option of further refining the search results, or saving them for later review.  
+We figured whether you’re looking for a place to retire, or just getting started, we can help. Try TICity!
+
 ## CHARLIE 2020
-[ Assemble ](https://gentle-ridge-89788.herokuapp.com/) - Trip, Miguel, Cynthia  
+[ Assemble ](https://gentle-ridge-89788.herokuapp.com/) - Cynthia, Miguel, Trip  
 Assemble is a team finding app meant primarily for new programmers looking for project experience or looking for teams to work with. Create and post project ideas, search for projects you are interested in, create chat room forums to discuss with other members. No account necessary to view the projects that are up!
 
 [ Pet Wellness App ]( https://mysterious-woodland-85267.herokuapp.com/) - Erica, Selam, Ryan, Jakob  
