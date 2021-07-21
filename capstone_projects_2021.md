@@ -2,7 +2,7 @@
 
 ## BRAVO 2021
 [ Megabites ](https://shrouded-sierra-57341.herokuapp.com) - Chris, Erik, Jonathan, Hector  
-Megabites provides those who wish to take charge of their diets an opportunity to interact with our searchable recipes. Users can interact with our recipes according to their dietary goals and restrictions.  Users can save recipes to their own personal accounts which are customizable at any time.
+We at MegaBites recognize the fact that diet plays a major factor in your physical and mental health. With your health in mind, we’ve assembled an app that empowers you to make the right diet decisions based on four diets backed by science. Megabytes allows you to search diet specific recipes and save them to your personal dashboard for ease of reference, putting the power of health in your own hands.
 
 [ Travel More ](https://still-waters-56980.herokuapp.com) - Kevin, Shazeen, Vivean  
 One place for all your trip planning. A new way to share your travels.
