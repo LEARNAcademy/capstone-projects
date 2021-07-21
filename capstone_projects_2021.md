@@ -1,5 +1,16 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
+## BRAVO 2021
+[ Megabites ](https://shrouded-sierra-57341.herokuapp.com) - Chris, Erik, Jonathan, Hector  
+Megabites provides those who wish to take charge of their diets an opportunity to interact with our searchable recipes. Users can interact with our recipes according to their dietary goals and restrictions.  Users can save recipes to their own personal accounts which are customizable at any time.
+
+[ Travel More ](https://still-waters-56980.herokuapp.com) - Kevin, Shazeen, Vivean  
+One place for all your trip planning. A new way to share your travels.
+Want to travel to the same place again and loved your trip? Do it again with your saved trips.
+
+[ Blackout ](https://infinite-taiga-38805.herokuapp.com) - Diego, Guillermo, Raymond  
+This app was designed to help cocktail lovers who don't always remember the cocktails they had throughout the night or don't know what they want to have. With over 500 cocktails in our database you can use this app to discover new cocktails and log your favorites once you make an account.
+
 ## ALPHA 2021
 [ Thirsty for Knowledge ](https://evening-chamber-40393.herokuapp.com/) - Justin, Nick, Raul, Steph    
 Thirsty for Knowledge is a full-stack React on Rails application made to turn those dull family nights into a challenging quiz-based trivia learning experience. You have four lives to race to the top of the leaderboard, just select a category and select a difficulty to get started!
