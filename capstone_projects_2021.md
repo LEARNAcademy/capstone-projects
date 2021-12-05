@@ -1,5 +1,21 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
+## Delta 2021
+[ You Asked ](https://blooming-woodland-51550.herokuapp.com/) - Ashley, Kevin, Rebecca, Shaun  
+"You Asked" is an advice forum where users can throw their deepest or most shallow questions out into the universe and the other users can respond with either serious advice or with some unsolicited advice.
+
+[ Furr Finder ](https://furr-finder.herokuapp.com/) - John, Marisa, Mayuri, Napoleon  
+Our goal at Furr Finder is to find a FURRever home for all pets placed in animal shelters. Each year there are over hundreds of thousands of animals that are put down at shelters due to the fact there are too many pets and not enough space to keep them all. Our goal at Furr Finder is to make it easier for people to adopt shelter animals and support local community shelters. Remember to ADOPT don't SHOP!!
+
+[ WhereItzApp ](https://lit-brook-40793.herokuapp.com/) - Anthony, Charlean, Kelly, Robert  
+Keep hearing about new tv shows, but aren't sure where to find them? Do you ever wish you could have all of your next shows to binge watch in one place? With WhereItzApp, you can now search and find where your favorite shows are streaming in one central location. Create customized tv lists based on your interests and never wonder where to find that must see show again with WhereItzApp.
+
+[ Musi-Match ](https://dry-plains-03297.herokuapp.com/) - Ato, Brandon, Cianna, Ross  
+10 minutes into a 6 hour road trip with your friend is the worst time to learn that they have terrible taste in music. Musi-Match prevents this nightmare by letting users select their favorite songs from a library and see how they match with other users’ favorite songs. Musi-Match lets users connect based on music taste to see concerts together, listen to an album release together, or to know who to trust with the aux chord.
+
+[ FlixList ](https://rocky-shelf-73816.herokuapp.com/) - Elias, Lillian, Phil, Sahtra  
+FlixList is an entertainment app that allows you to tailor your recommended movies and tv shows by taking a personality quiz. It also enables you to save your favorite content, so you don’t miss out on anything that you’re interested in.
+
 ## Charlie 2021
 [ Fate ](https://glacial-tundra-45968.herokuapp.com/) - Brian, Chris, Galadoe, Trey   
 Fate is an app that holds the promise of a community.  
@@ -15,7 +31,7 @@ We at KYAC Inc. have seen an increase of de-homed animals and struggling familie
 Cowabunga is a react-in-rails surf app created to help surfers keep tabs on their favorite surf spots and decide where to catch the best conditions. After signing up you can create a collection and add any tracked surfspots. From there, you can quickly scan your locations for any that have the "greenlight" -- meaning that spot has ideal surf conditions.
 
 [ Weeb Coin ](https://sleepy-cove-85300.herokuapp.com/) - Arturo, Chauncy, Conrad, Thomas  
-We’re the WEEBS, want to get rich? See mad gains? You got diamond hands? Missed out on Doge? Our crypto tracking app Weeb Coin, can help you follow crypto trends, find new coins to invest in, discuss new investment opportunities, and build your portfolio. 
+We’re the WEEBS, want to get rich? See mad gains? You got diamond hands? Missed out on Doge? Our crypto tracking app Weeb Coin, can help you follow crypto trends, find new coins to invest in, discuss new investment opportunities, and build your portfolio.
 
 ## BRAVO 2021
 [ Megabites ](https://shrouded-sierra-57341.herokuapp.com) - Chris, Erik, Jonathan, Hector  
