@@ -1,5 +1,22 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
+## Echo 2021
+[ Pantry Hero ](https://intense-lake-77383.herokuapp.com/) - Antonio, Mikka, Salvador  
+Pantry Hero is an app that allows the users to search for recipes based on what they have in their pantry or fridge. Main features of the app include: a personalized pantry page, recipe list page, and a recipe description page.
+
+[ Money Cat Trading ](https://money-cat-production.herokuapp.com/  ) - Demetrius, Noah, Pavan, Warren  
+Money Cat Trading is an app that allows users to simulate trades on the top 50 crypto currencies so that they may gain knowledge and experience without having to risk their real money.  
+
+[ Forgettables ](https://polar-eyrie-84278.herokuapp.com/) - Frank, John, Josh, Robert  
+Forgettables seeks to address a common problem of daily life, which is the problem of trying to keep track of 'all the things you have to do'. With Forgettables, you can add all your projects in one place - manage your next birthday party, save your grocery list for next time, or receive an alert when it's time to change your oil. Forgettables gives you a one stop shop to organize all of your to-do tasks, with built in reminder features, using Twilio API. Take an 'easy' step towards organization with Forgettables.
+
+
+[ RapidPx ](https://limitless-coast-85256.herokuapp.com) - Chris, Hannah, Kirk, Samantha  
+RapidPx is an app caretakers can utilize to quickly add patients and attach medications to them so they can be easily retrieved. Set up an account and you’ll be good to go!
+
+[ BidUp ](https://radiant-island-32845.herokuapp.com/) - Jason, Kevin, Raul  
+BidUp is an auction marketplace for charitable offerings. Celebrities can convert their time to donations for the charities they support. Since BidUp is auction-based, charities can maximize the donations they receive through services and products provided by their supporters.
+
 ## Delta 2021
 [ You Asked ](https://blooming-woodland-51550.herokuapp.com/) - Ashley, Kevin, Rebecca, Shaun  
 "You Asked" is an advice forum where users can throw their deepest or most shallow questions out into the universe and the other users can respond with either serious advice or with some unsolicited advice.
