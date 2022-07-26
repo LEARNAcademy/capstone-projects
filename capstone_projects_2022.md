@@ -2,15 +2,18 @@
 
 ## Charlie 2022
 [Learnify](https://learnify-capstone.herokuapp.com/) - Collin, Logan, Geovanna
+
 We believe everyone who has gone through learn Academy can relate to the feelings of home fried brains! Which is what drove our team to come up with an application that can help future peers spend less time in the frying pan. With that goal in mind we created Learnify, A safe space where future, present, and past students can come to share their experiences, thoughts, and projects during each unit at Learn. This will help future students attending Learn better grasp the content for each unit and alleviate the feeling of being the only one lost in the sauce.
 
 
 [Last Call](https://sleepy-dusk-25015.herokuapp.com/) - Sean, Michael, Don, Valerie 
+
 Have you ever had the “I can’t remember what that drink was” experience? You don’t remember the name but the drink was so good it curled your toes. You do however remember an ingredient or two. Maybe It tasted like it had mint, or it was a little sweet, or even spicy.
 Well here’s an app that will help you never forget your favorite drink again. LastCall, is an app that allows the user to submit a few ingredients and it will return a list of cocktails. The app also gives the user the ability to add and delete ingredients to create a new drink of their own. The user experience will be just as good or even better than the drink itself.
 
 
 [Grubber](https://grubberapp.herokuapp.com/) - JB, Jorge, Frank, Stephen
+
 The Grubber App
 The Perfect Place for a perfect plate.
 What’s for Dinner?  Where are we gonna Eat? The usual questions at the end of the workday.
@@ -18,11 +21,13 @@ Instead of arguing or fighting on what and where to eat, you can go to our  Grub
 
 
 [Judoten](http://judoten.com/) - Lance, Denise, Damien
+
 Our App is called JudoTen. 
 The word "ten" in Japanese means "spot or mark". Which is fitting because our app helps users find spots where Judo is taught. As a Judo coach, people (including the rest of the Ninjaneers) tell me how difficult it is to find a dojo that teaches judo. This problem was made worse during the pandemic when many Judo dojos had to close down, including the one I started at. And a lot of Judo is taught as a mere accessory at Dojos that specialize in other martial arts. As a Judo coach, I am trying to keep Judo alive and that starts with people being able to find it.
 
 
 [BrightMind](https://calm-plateau-12315.herokuapp.com/) - Jenner, Davon, Ivan, Nic
+
 BrightMind is a mental wellness web application that provides users with a private journaling experience. Backed by numerous scientific studies, journaling has been proven to alleviate a multitude of different mental health issues. This application aims to create order when you world feels like chaos and to help provide guidance and online resources to help set you on the right path.
 
 
