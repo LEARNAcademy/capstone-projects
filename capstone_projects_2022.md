@@ -1,23 +1,23 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
 ## Delta 2022
-[DSCVR](https://boiling-journey-60721.herokuapp.com/) - James, Luis, Samuel, Sean
+[DSCVR](https://boiling-journey-60721.herokuapp.com/) - James, Luis, Samuel, Sean  
 Ever been bored on a Tuesday? Have children but find yourself going crazy at home?  Have a pet that requires exercise?  Have a partner who requires your attention?  DSCVR will take care of you, then. To find your next activity, use the new Tag-based search engine in this app. There is no need to type; simply choose from a few simple but essential Tags to find the ideal activity. Create an account and offer your assistance to others by leaving reviews. If you discover a new location, go ahead and add that listing as well. Try something new, DSCVR.
 
 
-[Gemme Fatale](https://calm-river-47523.herokuapp.com/) - Nicole, Pua, Will
+[Gemme Fatale](https://calm-river-47523.herokuapp.com/) - Nicole, Pua, Will  
 We at Gemme Fatale want to provide the opportunity for those in the LGBTQ community to explore the world without fear. Introducing "Nomadda" a personal trip builder app dedicated to providing insight on the world's LGBTQ safe countries. It is our goal to make traveling a carefree experience "nomadda" the person or the place. Find your inner nomad with "Nomadda".
 
 
-[Honest Reviews](https://intense-shore-50682.herokuapp.com) - Alex, Alvin, Ricky, Venessa
+[Honest Reviews](https://intense-shore-50682.herokuapp.com) - Alex, Alvin, Ricky, Venessa  
 Have you ever wanted to switch careers and not sure what school to go to? Is the internet overwhelming you with vast amount of information and can’t make up your mind on a career change? Well, look no further, Honest Reviews.com is here to guide you into the future. We are here to give you real, honest reviews on variety of schools and what they are like so you make an informed decision. Join us now and see what everyone is talking about.
 
 
-[Paw Spot](https://the-paw-spot.herokuapp.com/) - Corey, Jojo, William
+[Paw Spot](https://the-paw-spot.herokuapp.com/) - Corey, Jojo, William  
 Welcome to Paw Spot! Are your fur-babies your best friend? Do you wish you could take them more places? Paw Spot is here for you. Here at Paw Spot we are creating an app where users can post pet-friendly locations along with the ability to view other users pet posts and even search for local spots near you. Our goals are to increase waggy tails, improve pet bonding, and create fun local experiences for our users.
 
 
-[Uncharted](https://thawing-oasis-45194.herokuapp.com/) - Ahmed, Gene, Leo, Steven
+[Uncharted](https://thawing-oasis-45194.herokuapp.com/) - Ahmed, Gene, Leo, Steven  
 'Uncharted' combines travel mapping and the art of journaling into an interactive life story experience. For the first time ever, avid or aspiring travelers can now archive previous trips using photos and personal details, plan future vacations, or have their next trip decided with our unique Trip Randomizer tool. Revisiting trip highlights and those carefree moments has never been easier! Document old memories, while creating new ones all in place! So whether you want a way to keep track of already visited destinations, searching for location inspiration, or are looking for resources on how to make traveling simple and more affordable; 'Uncharted' has your back.
 
 
