@@ -1,5 +1,32 @@
 # LEARN ACADEMY CAPSTONE PROJECTS DESCRIPTIONS AND LINKS
 
+## Echo 2022
+[RankUp](https://rankupapp.herokuapp.com/) - Sam, Vanessa, Cliff, Cathrine  
+[`Need a <br> GitHub`](https://github.com/need-a-br/RankUpApp)  
+RankUp was created to help instructors save time and increase efficiency. It was designed to enable you to quickly organize and keep track of your students as they progress through their martial arts journey. Once you have added each student to your profile, you can see all of their data with one click! Updating any details, such as rank, or indicating if the student is ready to test, are one simple click away.  
+
+
+[Müd Müzik](https://mud-muzik.herokuapp.com/) - Kelly, Elijah, Holden  
+[Capstone Capos GitHub](https://github.com/capstone-capos-2022-echo/mood-music)  
+Welcome to Müd Müzik! With all the choices you make throughout the day, let us reduce your decision fatigue by picking out great music depending on your mood. Whether you are looking to study, workout, rock or just chill, Müd Müzik will curate your listening experience. Choose the mood you’re in, and we’ll give you a playlist of songs that you can listen to! Our app is user friendly and customizable, allowing you to pick mood playlists, add new songs to the playlist, and listen to quality audio based on your preferences.
+
+
+[Simpill](https://simpill-app.herokuapp.com/) - Dawit, Daniel, Jereme  
+[Team Dynamic GitHub](https://github.com/TeamDynamicEcho2022/Capstone)  
+Hello, we’re TEAM DYNAMIC. We are a group of three developers: Dawit, Daniel, and Jereme. Today we are showcasing a new reminder app, SimPill, geared toward forgetful, busy, or even more senior people. Heck, I am sure a majority of us have forgotten something as minuscule as taking a supplement. With a click of a button users of all kinds are able to  monitor their daily medication scheduling. Create an account, log into our app, add your medications, then it’s as simple as logging in and seeing what you need to take for the day.
+With a quick click our users will be able to have a sound mind and continue their day with leisure. Our app is designed to be as easy to use, read, and interact with to get rid of the fuss of aggravating and confusing patient portals. 
+
+
+[Gym Rat Deals](https://gymratdeals.herokuapp.com/) - Hieu, Tuan, Francisco, Brook  
+[Twenty One Code GitHub](https://github.com/twentyonecode/gym-rat-deals)  
+Gym Rat Deals is a marketing app that connects users to exclusive deals from gyms in their area and allows gyms, at a low cost, to market and attract our users as clients. Gyms pay a small subscription fee to join our network and post deals to attract new clients.  While users are able to go to just one site to find great deals. A win-win for everyone involved.
+
+
+[.Lift( )](https://dotlift.herokuapp.com/) - Luis, Joyce, Cody, Jason  
+[JJLC Corporation GitHub](https://github.com/JJLC-Corporation/jjlc-corporation)  
+Can you recall a time where you felt lost and confused at the gym, wondering what you should do next? Yeah, us too... Too many times to admit. But here's the thing - no longer are the days you feel lost because we solved this issue! With .Lift(), you have the ability to plan your workout session before you head to the gym. Create your workout plan, see your session, edit your entry if you need to go higher in weight, or delete a workout if you don't feel like doing that exercise - it's all up to you. It's free to join us! Sign up now to start logging those sessions. 
+
+
 ## Delta 2022
 [DSCVR](https://boiling-journey-60721.herokuapp.com/) - James, Luis, Samuel, Sean  
 Ever been bored on a Tuesday? Have children but find yourself going crazy at home?  Have a pet that requires exercise?  Have a partner who requires your attention?  DSCVR will take care of you, then. To find your next activity, use the new Tag-based search engine in this app. There is no need to type; simply choose from a few simple but essential Tags to find the ideal activity. Create an account and offer your assistance to others by leaving reviews. If you discover a new location, go ahead and add that listing as well. Try something new, DSCVR.
