@@ -1,5 +1,25 @@
 # 2022 Cohort Capstone Projects
 
+## Foxtrot 2022
+
+[The Gamer Lounge](https://official-gamer-lounge.herokuapp.com/) - Zack, Matthew, Ari   
+Video games have gotten expensive, they are also not a hobby, they are a lifestyle. At The Gamer Lounge, we provide truthful gamer reviews that have the raw thoughts from gamers like yourselves. Our mission is creating a platform that is trusted, true, and ensures everyone gets to say what they think about a video game. Our functionality will be the ability to find a video game through our Games tab that once clicked you can also filter through the genres. If you still don’t see the game you’re looking for use our search bar! Once you find the game you want you have the ability to see all the reviews for that game. A logged in user will have the ability to leave a review. So sign up now!
+
+[GregsList App](https://gregs-list-app.herokuapp.com/) - Tawn, Guan, Goran   
+Gregslist is a platform used to connect these two worlds together through interaction and commerce. Our goal to allow the World the capability to transact digital and non-digital assets. Alongside the ability to purchase items using cryptocurrencies.  Producers can produce and sell a wide range of products both tangible and digital opening a plethora products buyers can browse through. Artists comes from many backgrounds and the Art they create takes many shapes, forms, and essences.
+We created Gregslist with our intentions and focus on Unity. The World is constantly changing and we are fortunate to be at the point where the experiential reality of a New World is coming into existence right before our very eyes, The Digital New World. A world where exploration of thoughts, ideas and imaginations can be experienced and shared differently from the previous World before.  We are setting sail for “All Blue”
+This app is based on our assessment that there is a patch missing in the e-commerce industry; E-commerce apps and platforms are abundant today; from giants like Amazon and Alibaba to mom and pop websites. What sets Gregslist apart from the rest is the users ability to use crypto as a form of currency complete their transactions safely, securely, and if choose to.. anonymously.
+
+[Cloudy App](https://team-cloudy-app.herokuapp.com/) - Kyle, Athian, Joseph, Olena  
+This is our app called CLOUDY. We are your personal weather app, to help you keep tabs of your favorite locations in the world. Whether you have friends and family all over the world, or you travel often, our app will help you stay informed 24/7. So what makes us different from our competitors? You can enjoy our app, ad free, we won’t sell your personal data to advertisers. All of your locations will be private to your account. Your personal data is secured on our website.
+
+[Perfect Pasta Pairings App](https://perfect-pasta-pairings.herokuapp.com/) - Christian, Lyssa, Heath, Nate  
+What is Pasta? Some nay sayers will preach to stay away from it. Some would say it's edible love.. Pasta is a journey, a tweak in ingredients can send you through different regions of Italy or even take you across the world of cuisine. Here at Impastas, we aim to send you down the path of flavor and happiness by helping you find your perfect pasta dish! You will no longer want to sway away from amazing carbs once you lay your eyes and tongues on these delicious  plates! Allow us to assist you on this amazing journey that is held within your own kitchen and on your own terms  for a fraction of the cost that you will pay by going to your favorite Italian restaurant.
+Disclaimer: Impastas is not liable for any weight gain.
+
+[Risky Biscuits App](https://risky-biscuits.herokuapp.com/) - Jeremy, David, Michy  
+Ever find yourself wanting to go out for dinner but can’t decide where to go? Risky Biscuits is here to help! Simply create an account add your favorite restaurants and Risky Biscuits will randomly select a restaurant for you. No more taking an hour to decide where to eat, Risky Biscuits does all the work for you. Take the guess work out of your dinner plans tonight and let Risky Biscuits decide where you dine.
+
 ## Echo 2022
 
 [RankUp](https://rankupapp.herokuapp.com/) - Cathrine, Cliff, Sam, Vanessa  
