@@ -3,12 +3,14 @@
 ## Hotel 2022
 
 [BrainBusters](https://brainbusters.onrender.com/) - Matt, Natally, Aileen, Romeo  
+[Capstone Demo](https://youtu.be/-X5EaMc3Mtg)  
 Are you tired of jotting down notes on scraps of paper or losing track of your ideas in multiple places? Brain Busters is the solution you've been searching for. Our app allows you to store, share, and collaborate on all of your notes and thoughts in one convenient place. With its user-friendly interface, Brain Busters makes it easy for you to keep track of your ideas and take them to the next level. Maximize your mind: collaborate, study, and conquer with BrainBusters.
 
 [Gourmandize](https://gourmandize-e0kd.onrender.com) - Chris, Ney, Octavio, Sammy   
 The app we’re presenting today is called Gourmandize. Our app is here to help you become a person who enjoys eating delicious meals. With Gourmandize, we understand that excellent service doesn’t necessarily mean great food! We kick out biased reviews focusing on customer service and place your attention on what your heart desires…delicious food! With Gourmandize, you will find fantastic food you want to satisfy your tastebuds and belly. We aim to send your craving decisions into hyperdrive.
 
 [Movie Scout](https://movie-scout.onrender.com) - Moss, Molly, Raymond, Torin  
+[Capstone Demo](https://youtu.be/jrxoXW50U4k)  
 Are you tired of aimlessly scrolling through endless movie options? Well hold onto your popcorn, people, it's time to upgrade your movie watching experience! Say hello to “Movie Scout”: your go-to app for tracking and organizing your favorite films! Our platform is the perfect place to add and delete movies to your watch list, all while showing off your impeccable movie taste! And it’s easy to use so say goodbye to boring movie nights, grab your favorite snack, and let the movie night begin!  
 
 [PackRat](https://moving-app.onrender.com/) - Dominque, Bora, James, Lea  
@@ -16,8 +18,8 @@ After the stress of a major move, the last thing anyone wants to do is blindly s
 Don’t get bitten by your move. Use PackRat.  
 
 [TrekLog](http://treklog.onrender.com/) - Dave, Oscar, Christian, Monica  
+[Capstone Demo](https://youtu.be/sIQUpLmFr8E)  
 Hello everyone! My name is Dave Farmer, and I'm the Product Lead for Team CMOD. Together with Oscar, our Project Lead, Monica, our Design Lead, and Christian, our Tech Lead, we're thrilled to introduce you to our creation: Trek Log. Trek Log is an innovative website application designed specifically for the hiking community. Whether you're a seasoned hiker or a newcomer to the trails, our platform has everything you need to discover, share, and create hiking trails with ease. With Trek Log, you can browse and explore trails created by other users, or even create your own and share them with the community. Our intuitive platform also allows you to update existing trails, ensuring that the information provided is always accurate and up-to-date. So why not give Trek Log a try today? Join our community of passionate hikers and start planning your next adventure with ease. We're confident that you'll love the experience as much as we loved creating it!  
-
 
 ## Golf 2022
 
