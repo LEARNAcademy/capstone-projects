@@ -1,11 +1,30 @@
 # 2022 Cohort Capstone Projects
 
+## Hotel 2022
+
+[BrainBusters](https://brainbusters.onrender.com/) - Matt, Natally, Aileen, Romeo  
+Are you tired of jotting down notes on scraps of paper or losing track of your ideas in multiple places? Brain Busters is the solution you've been searching for. Our app allows you to store, share, and collaborate on all of your notes and thoughts in one convenient place. With its user-friendly interface, Brain Busters makes it easy for you to keep track of your ideas and take them to the next level. Maximize your mind: collaborate, study, and conquer with BrainBusters.
+
+[Gourmandize](https://gourmandize-e0kd.onrender.com) - Chris, Ney, Octavio, Sammy   
+The app we’re presenting today is called Gourmandize. Our app is here to help you become a person who enjoys eating delicious meals. With Gourmandize, we understand that excellent service doesn’t necessarily mean great food! We kick out biased reviews focusing on customer service and place your attention on what your heart desires…delicious food! With Gourmandize, you will find fantastic food you want to satisfy your tastebuds and belly. We aim to send your craving decisions into hyperdrive.
+
+[Movie Scout](https://movie-scout.onrender.com) - Moss, Molly, Raymond, Torin  
+Are you tired of aimlessly scrolling through endless movie options? Well hold onto your popcorn, people, it's time to upgrade your movie watching experience! Say hello to “Movie Scout”: your go-to app for tracking and organizing your favorite films! Our platform is the perfect place to add and delete movies to your watch list, all while showing off your impeccable movie taste! And it’s easy to use so say goodbye to boring movie nights, grab your favorite snack, and let the movie night begin!  
+
+[PackRat](https://moving-app.onrender.com/) - Dominque, Bora, James, Lea  
+After the stress of a major move, the last thing anyone wants to do is blindly sort through their moving boxes struggling to find the item they need right that moment. With PackRat, finding your stuff is easy. Create virtual boxes and list their contents. When it’s time to find that item you need, just search your virtual boxes to find out where it is in the real world.
+Don’t get bitten by your move. Use PackRat.  
+
+[TrekLog](http://treklog.onrender.com/) - Dave, Oscar, Christian, Monica  
+Hello everyone! My name is Dave Farmer, and I'm the Product Lead for Team CMOD. Together with Oscar, our Project Lead, Monica, our Design Lead, and Christian, our Tech Lead, we're thrilled to introduce you to our creation: Trek Log. Trek Log is an innovative website application designed specifically for the hiking community. Whether you're a seasoned hiker or a newcomer to the trails, our platform has everything you need to discover, share, and create hiking trails with ease. With Trek Log, you can browse and explore trails created by other users, or even create your own and share them with the community. Our intuitive platform also allows you to update existing trails, ensuring that the information provided is always accurate and up-to-date. So why not give Trek Log a try today? Join our community of passionate hikers and start planning your next adventure with ease. We're confident that you'll love the experience as much as we loved creating it!  
+
+
 ## Golf 2022
 
-[Armor](https://armor.onrender.com/) - Andre, Cesar, Kent, Mike
+[Armor](https://armor.onrender.com/) - Andre, Cesar, Kent, Mike  
 Welcome, we have created a small easy to use storefront web application intended for the at home hobbyist who wants to sell their wares online.  Our store is universal, for any type of products from berets to books or whatever your heart's desire.  You can input new products, edit their attributes, or delete them if they are no longer for sale.  Your customers can create logins and orders,  and preview all your products until they decide on just one to view and or order.
 
-[Atlas](https://atlas-capstone.onrender.com/) - Frank, Garrett, Matt, Zeke
+[Atlas](https://atlas-capstone.onrender.com/) - Frank, Garrett, Matt, Zeke  
 Not Your Average Fitness App.
 Atlas Health  is a fully customizable exercise app designed specifically to meet the needs of fitness enthusiasts.
 What makes Atlas Health different?
@@ -15,15 +34,15 @@ Not feeling that leg day?  Atlas Health allows you to easily change which muscle
 Traveling without equipment? No problem!  Atlas Health allows you to select a workout routine using only your own bodyweight
 Our app is a place to go and find new and interesting workouts!
 
-[Cheridova](https://cheridova.onrender.com/) - Annabella, Charlie, Shannon
+[Cheridova](https://cheridova.onrender.com/) - Annabella, Charlie, Shannon  
 Have you ever looked into your closet and thought oh same old boring clothes? Well we have created an app just for that!
 Let us introduce to you Cheridova.
 Our app allows you to browse through our wide selection and choose an outfit that fits any event for any time of day. Wanna lounge all day? Try our casual category. Might get lucky tonight? Date night for sure. Need to impress your boss? Office Attire all the way. We have styles to fit all of your needs. What if you’re already quite stylish and want to inspire others with your fashionable spirit? You’re also able to create your own outfits and share them with the world. No longer will you lack the creativity to choose outfits that will wow your intended audience.
 
-[Didjadoo](https://didjadoo.onrender.com/) - Ciani, Ramirez, Renita, Tabi
+[Didjadoo](https://didjadoo.onrender.com/) - Ciani, Ramirez, Renita, Tabi  
 As an adult in the 21st century, we are plagued with the burden of having lists and goals. We have created a bodacious app called Didjadoo. At its core, Didjadoo is a Task Management App. This website is the visual representation of a user’s lists and goals. The purpose of this app is to assist users with tracking their goals and progress. This APP has a feature to include your friends, family, and colleagues in your tasks, for not only motivation but accountability. We are excited to give the public a viable product, that can ease every day burdens.
 
-[Flavian Fairway](https://flavian-fairway.onrender.com/) - Blake, Immanuel, Manny, Tyler
+[Flavian Fairway](https://flavian-fairway.onrender.com/) - Blake, Immanuel, Manny, Tyler  
 Everybody loves a bit of competitive spirit, right? Haven't you ever wondered about who in your friend group is the best? Or maybe even the world? Flavian Fairway ignites that competitive passion the right way, every time. Our snowboard tracking app allows users to log their personal best stats on the mountain, and to compare them to other users. Compete in a head-to-head against a random user to see who takes the cake and earns a dub on their profile, and check out the public leaderboard to see the most prolific users' names, and who to target next. Get your shred on with Flavian Fairway today, unless you're too chicken! 
 
 ## Foxtrot 2022
