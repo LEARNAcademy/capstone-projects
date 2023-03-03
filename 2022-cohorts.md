@@ -2,24 +2,25 @@
 
 ## Hotel 2022
 
-[BrainBusters](https://brainbusters.onrender.com/) - Matt, Natally, Aileen, Romeo  
-[Capstone Demo](https://youtu.be/-X5EaMc3Mtg)  
+[BrainBusters](https://brainbusters.onrender.com/) - Matt, Natally, Aileen, Romeo    
 Are you tired of jotting down notes on scraps of paper or losing track of your ideas in multiple places? Brain Busters is the solution you've been searching for. Our app allows you to store, share, and collaborate on all of your notes and thoughts in one convenient place. With its user-friendly interface, Brain Busters makes it easy for you to keep track of your ideas and take them to the next level. Maximize your mind: collaborate, study, and conquer with BrainBusters.
+[![BrainBusters Demo](https://img.youtube.com/vi/-X5EaMc3Mtg/0.jpg)](https://youtu.be/-X5EaMc3Mtg)  
 
 [Gourmandize](https://gourmandize-e0kd.onrender.com) - Chris, Ney, Octavio, Sammy   
 The app we’re presenting today is called Gourmandize. Our app is here to help you become a person who enjoys eating delicious meals. With Gourmandize, we understand that excellent service doesn’t necessarily mean great food! We kick out biased reviews focusing on customer service and place your attention on what your heart desires…delicious food! With Gourmandize, you will find fantastic food you want to satisfy your tastebuds and belly. We aim to send your craving decisions into hyperdrive.
 
 [Movie Scout](https://movie-scout.onrender.com) - Moss, Molly, Raymond, Torin  
-[Capstone Demo](https://youtu.be/jrxoXW50U4k)  
 Are you tired of aimlessly scrolling through endless movie options? Well hold onto your popcorn, people, it's time to upgrade your movie watching experience! Say hello to “Movie Scout”: your go-to app for tracking and organizing your favorite films! Our platform is the perfect place to add and delete movies to your watch list, all while showing off your impeccable movie taste! And it’s easy to use so say goodbye to boring movie nights, grab your favorite snack, and let the movie night begin!  
+[![Movie Scout Demo](https://img.youtube.com/vi/jrxoXW50U4k/0.jpg)](https://youtu.be/jrxoXW50U4k)    
+
 
 [PackRat](https://moving-app.onrender.com/) - Dominque, Bora, James, Lea  
 After the stress of a major move, the last thing anyone wants to do is blindly sort through their moving boxes struggling to find the item they need right that moment. With PackRat, finding your stuff is easy. Create virtual boxes and list their contents. When it’s time to find that item you need, just search your virtual boxes to find out where it is in the real world.
 Don’t get bitten by your move. Use PackRat.  
 
 [TrekLog](http://treklog.onrender.com/) - Dave, Oscar, Christian, Monica  
-[Capstone Demo](https://youtu.be/sIQUpLmFr8E)  
 Hello everyone! My name is Dave Farmer, and I'm the Product Lead for Team CMOD. Together with Oscar, our Project Lead, Monica, our Design Lead, and Christian, our Tech Lead, we're thrilled to introduce you to our creation: Trek Log. Trek Log is an innovative website application designed specifically for the hiking community. Whether you're a seasoned hiker or a newcomer to the trails, our platform has everything you need to discover, share, and create hiking trails with ease. With Trek Log, you can browse and explore trails created by other users, or even create your own and share them with the community. Our intuitive platform also allows you to update existing trails, ensuring that the information provided is always accurate and up-to-date. So why not give Trek Log a try today? Join our community of passionate hikers and start planning your next adventure with ease. We're confident that you'll love the experience as much as we loved creating it!  
+[![TrekLog Demo](https://img.youtube.com/vi/sIQUpLmFr8E/0.jpg)](https://youtu.be/sIQUpLmFr8E)  
 
 ## Golf 2022
 
@@ -50,8 +51,8 @@ Everybody loves a bit of competitive spirit, right? Haven't you ever wondered ab
 ## Foxtrot 2022
 
 [The Gamer Lounge](https://official-gamer-lounge.herokuapp.com/) - Zack, Matthew, Ari   
-Video games have gotten expensive, they are also not a hobby, they are a lifestyle. At The Gamer Lounge, we provide truthful gamer reviews that have the raw thoughts from gamers like yourselves. Our mission is creating a platform that is trusted, true, and ensures everyone gets to say what they think about a video game. Our functionality will be the ability to find a video game through our Games tab that once clicked you can also filter through the genres. If you still don’t see the game you’re looking for use our search bar! Once you find the game you want you have the ability to see all the reviews for that game. A logged in user will have the ability to leave a review. So sign up now!
-[![Gamer Lounge](https://img.youtube.com/vi/mt-VtpoJ_1c/0.jpg)](https://youtu.be/mt-VtpoJ_1c)
+Video games have gotten expensive, they are also not a hobby, they are a lifestyle. At The Gamer Lounge, we provide truthful gamer reviews that have the raw thoughts from gamers like yourselves. Our mission is creating a platform that is trusted, true, and ensures everyone gets to say what they think about a video game. Our functionality will be the ability to find a video game through our Games tab that once clicked you can also filter through the genres. If you still don’t see the game you’re looking for use our search bar! Once you find the game you want you have the ability to see all the reviews for that game. A logged in user will have the ability to leave a review. So sign up now!  
+[![Gamer Lounge](https://img.youtube.com/vi/mt-VtpoJ_1c/0.jpg)](https://youtu.be/mt-VtpoJ_1c)  
 
 [GregsList App](https://gregs-list-app.herokuapp.com/) - Tawn, Guan, Goran   
 Gregslist is a platform used to connect these two worlds together through interaction and commerce. Our goal to allow the World the capability to transact digital and non-digital assets. Alongside the ability to purchase items using cryptocurrencies.  Producers can produce and sell a wide range of products both tangible and digital opening a plethora products buyers can browse through. Artists comes from many backgrounds and the Art they create takes many shapes, forms, and essences.
@@ -66,23 +67,23 @@ What is Pasta? Some nay sayers will preach to stay away from it. Some would say 
 Disclaimer: Impastas is not liable for any weight gain.
 
 [Risky Biscuits App](https://risky-biscuits.herokuapp.com/) - Jeremy, David, Michy  
-Ever find yourself wanting to go out for dinner but can’t decide where to go? Risky Biscuits is here to help! Simply create an account add your favorite restaurants and Risky Biscuits will randomly select a restaurant for you. No more taking an hour to decide where to eat, Risky Biscuits does all the work for you. Take the guess work out of your dinner plans tonight and let Risky Biscuits decide where you dine.
-[![Risky Biscuits](https://img.youtube.com/vi/gmDh3Jq5G44/0.jpg)](https://youtu.be/gmDh3Jq5G44)
+Ever find yourself wanting to go out for dinner but can’t decide where to go? Risky Biscuits is here to help! Simply create an account add your favorite restaurants and Risky Biscuits will randomly select a restaurant for you. No more taking an hour to decide where to eat, Risky Biscuits does all the work for you. Take the guess work out of your dinner plans tonight and let Risky Biscuits decide where you dine.  
+[![Risky Biscuits](https://img.youtube.com/vi/gmDh3Jq5G44/0.jpg)](https://youtu.be/gmDh3Jq5G44)  
 
 ## Echo 2022
 
 [RankUp](https://rankupapp.herokuapp.com/) - Cathrine, Cliff, Sam, Vanessa  
-RankUp was created to help instructors save time and increase efficiency. It was designed to enable you to quickly organize and keep track of your students as they progress through their martial arts journey. Once you have added each student to your profile, you can see all of their data with one click! Updating any details, such as rank, or indicating if the student is ready to test, are one simple click away.
-[![RankUp](https://img.youtube.com/vi/Bft0mqeKcvA/0.jpg)](https://youtu.be/Bft0mqeKcvA)
+RankUp was created to help instructors save time and increase efficiency. It was designed to enable you to quickly organize and keep track of your students as they progress through their martial arts journey. Once you have added each student to your profile, you can see all of their data with one click! Updating any details, such as rank, or indicating if the student is ready to test, are one simple click away.  
+[![RankUp](https://img.youtube.com/vi/Bft0mqeKcvA/0.jpg)](https://youtu.be/Bft0mqeKcvA)  
 
 [Müd Müzik](https://mud-muzik.herokuapp.com/) - Elijah, Holden, Kelly  
-Welcome to Müd Müzik! With all the choices you make throughout the day, let us reduce your decision fatigue by picking out great music depending on your mood. Whether you are looking to study, workout, rock or just chill, Müd Müzik will curate your listening experience. Choose the mood you’re in, and we’ll give you a playlist of songs that you can listen to! Our app is user friendly and customizable, allowing you to pick mood playlists, add new songs to the playlist, and listen to quality audio based on your preferences.
-[![Müd Müzik](https://img.youtube.com/vi/K8uwDNa1quI/0.jpg)](https://youtu.be/K8uwDNa1quI)
+Welcome to Müd Müzik! With all the choices you make throughout the day, let us reduce your decision fatigue by picking out great music depending on your mood. Whether you are looking to study, workout, rock or just chill, Müd Müzik will curate your listening experience. Choose the mood you’re in, and we’ll give you a playlist of songs that you can listen to! Our app is user friendly and customizable, allowing you to pick mood playlists, add new songs to the playlist, and listen to quality audio based on your preferences.  
+[![Müd Müzik](https://img.youtube.com/vi/K8uwDNa1quI/0.jpg)](https://youtu.be/K8uwDNa1quI)  
 
 [Simpill](https://simpill-app.herokuapp.com/) - Daniel, Dawit, Jereme  
 Hello, we’re TEAM DYNAMIC. SimPill is a reminder app, geared toward forgetful, busy, or even more senior people. Heck, I am sure a majority of us have forgotten something as minuscule as taking a supplement. With a click of a button users of all kinds are able to monitor their daily medication scheduling. Create an account, log into our app, add your medications, then it’s as simple as logging in and seeing what you need to take for the day.
-With a quick click our users will be able to have a sound mind and continue their day with leisure. Our app is designed to be as easy to use, read, and interact with to get rid of the fuss of aggravating and confusing patient portals.
-[![Simpill](https://img.youtube.com/vi/MNfVGpM_zdU/0.jpg)](https://youtu.be/MNfVGpM_zdU)
+With a quick click our users will be able to have a sound mind and continue their day with leisure. Our app is designed to be as easy to use, read, and interact with to get rid of the fuss of aggravating and confusing patient portals.  
+[![Simpill](https://img.youtube.com/vi/MNfVGpM_zdU/0.jpg)](https://youtu.be/MNfVGpM_zdU)  
 
 [Gym Rat Deals](https://gymratdeals.herokuapp.com/) - Brook, Francisco, Hieu, Tuan  
 Gym Rat Deals is a marketing app that connects users to exclusive deals from gyms in their area and allows gyms, at a low cost, to market and attract our users as clients. Gyms pay a small subscription fee to join our network and post deals to attract new clients. While users are able to go to just one site to find great deals. A win-win for everyone involved.
@@ -96,15 +97,15 @@ Can you recall a time where you felt lost and confused at the gym, wondering wha
 Ever been bored on a Tuesday? Have children but find yourself going crazy at home? Have a pet that requires exercise? Have a partner who requires your attention? DSCVR will take care of you, then. To find your next activity, use the new Tag-based search engine in this app. There is no need to type; simply choose from a few simple but essential Tags to find the ideal activity. Create an account and offer your assistance to others by leaving reviews. If you discover a new location, go ahead and add that listing as well. Try something new, DSCVR.
 
 [Gemme Fatale](https://calm-river-47523.herokuapp.com/) - Nicole, Pua, Will  
-We at Gemme Fatale want to provide the opportunity for those in the LGBTQ community to explore the world without fear. Introducing "Nomadda" a personal trip builder app dedicated to providing insight on the world's LGBTQ safe countries. It is our goal to make traveling a carefree experience "nomadda" the person or the place. Find your inner nomad with "Nomadda".
-[![Nomadda](https://img.youtube.com/vi/fAYMOveHh0w/0.jpg)](https://youtu.be/fAYMOveHh0w)
+We at Gemme Fatale want to provide the opportunity for those in the LGBTQ community to explore the world without fear. Introducing "Nomadda" a personal trip builder app dedicated to providing insight on the world's LGBTQ safe countries. It is our goal to make traveling a carefree experience "nomadda" the person or the place. Find your inner nomad with "Nomadda".  
+[![Nomadda](https://img.youtube.com/vi/fAYMOveHh0w/0.jpg)](https://youtu.be/fAYMOveHh0w)  
 
 [Honest Reviews](https://intense-shore-50682.herokuapp.com) - Alex, Alvin, Ricky, Venessa  
 Have you ever wanted to switch careers and not sure what school to go to? Is the internet overwhelming you with vast amount of information and can’t make up your mind on a career change? Well, look no further, Honest Reviews.com is here to guide you into the future. We are here to give you real, honest reviews on variety of schools and what they are like so you make an informed decision. Join us now and see what everyone is talking about.
 
 [Paw Spot](https://the-paw-spot.herokuapp.com/) - Corey, Jojo, William  
-Welcome to Paw Spot! Are your fur-babies your best friend? Do you wish you could take them more places? Paw Spot is here for you. Here at Paw Spot we are creating an app where users can post pet-friendly locations along with the ability to view other users pet posts and even search for local spots near you. Our goals are to increase waggy tails, improve pet bonding, and create fun local experiences for our users.
-[![Paw Spot](https://img.youtube.com/vi/uTPc-9ci3n8/0.jpg)](https://youtu.be/uTPc-9ci3n8)
+Welcome to Paw Spot! Are your fur-babies your best friend? Do you wish you could take them more places? Paw Spot is here for you. Here at Paw Spot we are creating an app where users can post pet-friendly locations along with the ability to view other users pet posts and even search for local spots near you. Our goals are to increase waggy tails, improve pet bonding, and create fun local experiences for our users.  
+[![Paw Spot](https://img.youtube.com/vi/uTPc-9ci3n8/0.jpg)](https://youtu.be/uTPc-9ci3n8)  
 
 [Uncharted](https://thawing-oasis-45194.herokuapp.com/) - Ahmed, Gene, Leo, Steven  
 'Uncharted' combines travel mapping and the art of journaling into an interactive life story experience. For the first time ever, avid or aspiring travelers can now archive previous trips using photos and personal details, plan future vacations, or have their next trip decided with our unique Trip Randomizer tool. Revisiting trip highlights and those carefree moments has never been easier! Document old memories, while creating new ones all in place! So whether you want a way to keep track of already visited destinations, searching for location inspiration, or are looking for resources on how to make traveling simple and more affordable; 'Uncharted' has your back.
@@ -121,8 +122,8 @@ Well here’s an app that will help you never forget your favorite drink again. 
 [Grubber](https://grubberapp.herokuapp.com/) - Frank, JB, Jorge, Stephen  
 The Grubber App. The Perfect Place for a perfect plate.
 What’s for Dinner? Where are we gonna Eat? The usual questions at the end of the workday.
-Instead of arguing or fighting on what and where to eat, you can go to our Grubber App to make your choice more fun and unpredictable! With the our Grubber App you can sign in to make a list of your favorites, and the app will pick one for you at random. You can also pick one from our data base. You can also use Grubber app to pick from Yelp. And add that to your list.
-[![Grubber](https://img.youtube.com/vi/pYNrcc0eIWk/0.jpg)](https://youtu.be/pYNrcc0eIWk)
+Instead of arguing or fighting on what and where to eat, you can go to our Grubber App to make your choice more fun and unpredictable! With the our Grubber App you can sign in to make a list of your favorites, and the app will pick one for you at random. You can also pick one from our data base. You can also use Grubber app to pick from Yelp. And add that to your list.  
+[![Grubber](https://img.youtube.com/vi/pYNrcc0eIWk/0.jpg)](https://youtu.be/pYNrcc0eIWk)  
 
 [Judoten](http://judoten.com/) - Damien, Denise, Lance  
 Our App is called JudoTen.
@@ -134,8 +135,8 @@ BrightMind is a mental wellness web application that provides users with a priva
 ## Bravo 2022
 
 [Eventually](https://young-falls-79405.herokuapp.com/) - Natalia, Tameka, Toni, Zane  
-If your ability to remember song lyrics from the 90’s is better than your ability to remember why you walked into the kitchen, then "Eventually..." is the app for you! Sign up, add your tasks, update them as needed, and delete them when you're no longer bothered with doing stuff.
-[![Eventually](https://img.youtube.com/vi/Mub2WYzyt70/0.jpg)](https://youtu.be/Mub2WYzyt70)
+If your ability to remember song lyrics from the 90’s is better than your ability to remember why you walked into the kitchen, then "Eventually..." is the app for you! Sign up, add your tasks, update them as needed, and delete them when you're no longer bothered with doing stuff.  
+[![Eventually](https://img.youtube.com/vi/Mub2WYzyt70/0.jpg)](https://youtu.be/Mub2WYzyt70)  
 
 [Loosey Goosey](https://loosey-goosey.herokuapp.com/) - Kathy, LJ, Van, Vanessa  
 Have you ever wanted to get drinks for cheap only to realize you have no idea where or when? Do you spend forever looking for a place only to find out the happy hour has already ended? Well, no more wild goose chases for you. With Loosey Goosey, you can view the hottest happy hours in your area! Get the details on which restaurants have happy hours, what times, and see what’s on the menu, all at your fingertips.
@@ -152,8 +153,8 @@ Wng-N-It is a review app for finding nearby, user reviewed restaurants.
 Users can register to add reviews for the restaurants listed in the app, they can also edit and delete existing reviews that the user owns.
 
 [Path Unknown](https://thawing-savannah-35988.herokuapp.com/) - Andrew, Earl, Jack  
-Path Unknown app is designed for those who wish to share the hideaways, secret sights, and paths less travelled in their hometown with adventurous fellow explorers. We know that many locations which lie far off the beaten path are also close to your heart and we are here to assist you with sharing and finding the hidden gems that truly make each place special. Our team is deeply invested in the user experience and our app will allow a user to create an account where they will be able to post a location with details such as photos, descriptions, directions, and what they love about it. The places can be forgotten parks, mom and pop restaurants, or hidden spots inside a city. Any user will be able to see all the locations but only a user who has an account and is signed in will be able to make a post. Each user will also only be able to edit or delete the post that they themselves create.
-[![Path Unknown](https://img.youtube.com/vi/0sR9DZ4cJGE/0.jpg)](https://youtu.be/0sR9DZ4cJGE)
+Path Unknown app is designed for those who wish to share the hideaways, secret sights, and paths less travelled in their hometown with adventurous fellow explorers. We know that many locations which lie far off the beaten path are also close to your heart and we are here to assist you with sharing and finding the hidden gems that truly make each place special. Our team is deeply invested in the user experience and our app will allow a user to create an account where they will be able to post a location with details such as photos, descriptions, directions, and what they love about it. The places can be forgotten parks, mom and pop restaurants, or hidden spots inside a city. Any user will be able to see all the locations but only a user who has an account and is signed in will be able to make a post. Each user will also only be able to edit or delete the post that they themselves create.  
+[![Path Unknown](https://img.youtube.com/vi/0sR9DZ4cJGE/0.jpg)](https://youtu.be/0sR9DZ4cJGE)  
 
 ## Alpha 2022
 
