@@ -3,7 +3,7 @@
 ## Hotel 2022
 
 [BrainBusters](https://brainbusters.onrender.com/) - Matt, Natally, Aileen, Romeo    
-Are you tired of jotting down notes on scraps of paper or losing track of your ideas in multiple places? Brain Busters is the solution you've been searching for. Our app allows you to store, share, and collaborate on all of your notes and thoughts in one convenient place. With its user-friendly interface, Brain Busters makes it easy for you to keep track of your ideas and take them to the next level. Maximize your mind: collaborate, study, and conquer with BrainBusters.
+Are you tired of jotting down notes on scraps of paper or losing track of your ideas in multiple places? Brain Busters is the solution you've been searching for. Our app allows you to store, share, and collaborate on all of your notes and thoughts in one convenient place. With its user-friendly interface, Brain Busters makes it easy for you to keep track of your ideas and take them to the next level. Maximize your mind: collaborate, study, and conquer with BrainBusters.  
 [![BrainBusters Demo](https://img.youtube.com/vi/-X5EaMc3Mtg/0.jpg)](https://youtu.be/-X5EaMc3Mtg)  
 
 [Gourmandize](https://gourmandize-e0kd.onrender.com) - Chris, Ney, Octavio, Sammy   
