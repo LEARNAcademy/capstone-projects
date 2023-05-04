@@ -4,7 +4,7 @@ Note: After students graduate LEARN Academy they are not required to maintain th
 
 Video demos can be found on several projects. Enjoy!
 
-[2023 Cohorts](./2022-cohorts.md)
+[2023 Cohorts](./2023-cohorts.md)
 
 [2022 Cohorts](./2022-cohorts.md)
 
