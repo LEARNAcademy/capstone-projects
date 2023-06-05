@@ -31,23 +31,19 @@ So sign up today because no one wants an angry kitchen.
 
 ## Bravo 2023
 
-[FAN*C](https://slam-a-jamz.onrender.com/) - Elmer, Evelyn, Nguyen, Valeria
-
+[FAN*C](https://slam-a-jamz.onrender.com/) - Elmer, Evelyn, Nguyen, Valeria \
 What is Slam A Jamz? Have you ever wanted to track your favorite artist and the venues they are preforming at or at or as an artist want more control and exposure over the promotion of your music? Here at Slam A Jamz we offer a range of tools to allow artists the ability to market and promote their upcoming concerts and tours. Artists can also manage their existing shows, create new show postings, and remove old show content. As a fan based user, you can view a list of your favorite artist's upcoming releases.
 
-[Grand Theft AI](https://gtai-frontend.onrender.com/) - Apple, Greg, Nikki, Ray
-
+[Grand Theft AI](https://gtai-frontend.onrender.com/) - Apple, Greg, Nikki, Ray \
 GTAI is a web application that allows users to buy cars and store them in a database. Upon logging in, the user is given the option to steal a car rather than buy it. It provides full CRUD (Create, Read, Update, Delete) functionality, allowing users to perform various operations on car listings. GTAI also includes authorization and authentication features for secure access.
 
-[Kevin's Peanut Butter Treasure Planet](https://ara.onrender.com/) - Borja, Brandon, DeMario, Jose
-
+[Kevin's Peanut Butter Treasure Planet](https://ara.onrender.com/) - Borja, Brandon, DeMario, Jose \
 Ara is an anime focused app where users can search for an extensive database of anime and created customized lists of anime that they ant to watch, avoid, or categorize in any way they like.
 
-[WESS Productions](https://yum-web-application-front.onrender.com/) - Eddie, Sam, Spencer, Wagner
-
+[WESS Productions](https://yum-web-application-front.onrender.com/) - Eddie, Sam, Spencer, Wagner \
 YUM is a platform with an extensive collection of recipes, you can discover, share, add, meals.
 
-[Wham! Developers](https://concertgo.onrender.com/) - Felix, Jake, James, Mark
+[Wham! Developers](https://concertgo.onrender.com/) - Felix, Jake, James, Mark \
 Description: ConcertGo is a web application that helps users discover upcoming concerts and events in their area. Search concerts by location through the Ticketmaster API
 View all event cards on the ConcertGo Events List
 Create a free account to access the full application
