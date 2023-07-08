@@ -51,8 +51,29 @@ Logged in users can view their watch list to keep track of events
 Click on an event to get full details and visit the artist's Spotify page
 Create new concert postings or update existing events
 
+## Charlie 2023  
 
+[HoneyHome](https://honey-home.onrender.com/) - Will, Halie, Aubrey, Kyle  
+If you are you tired of juggling multiple home maintenance chores, struggling to keep track of repairs, and feel overwhelmed by the never-ending to-do list, we at Team Whak understand these challenges homeowners face when it comes to maintaining their beloved hive. That's why we created HoneyHome, the ultimate solution to transform the way you manage and maintain your home.
+With HoneyHome, you gain access to a powerful, user-friendly app designed to streamline and simplify your home maintenance tasks through creating a personalized task board. No more stress, confusion, or wasted time.  
+“At HoneyHome we have sweet solutions for home maintenance!”  
 
+[Gamer Vault](https://gamer-vault.onrender.com/) - C Rod, Vance, and Jessica  
+Today we are introducing to you Gamer Vault, the ultimate app for game enthusiasts!  Tired of forgetting your favorite games or struggling to find new ones?  Gamer Vault has got you covered.  With our app, you can easily create a personalized favorite list of games you love, while also giving you a nostalgic trip down memory lane!  
+
+[GameVerse](https://gameversefront.onrender.com/) - Yue Han, Justin, Henri  
+If you’re a gamer, who is always searching for that next best title to try, but can never find it, GameVerse is the app for you! Expand out into the GameVerse!  Our user-friendly website application that provides gamers with a convenient and easy-to-use platform to access information from a vast catalog of indie games to AAA blockbuster titles. If you find yourself wondering what game to play more than actually playing, ask our AI to help you find the right game and provide tips and summaries. SignUp join a community of passionate gamers, contribute your favorite titles and expand into the GameVerse.  
+
+[CodeCupid](https://code-cupid-front.onrender.com/signup) - Tucker, Ernesto, Bea, Rashaan  
+What if I told you that a semicolon could be the start of a lifelong bond? At CodeCupid; we dive into the unique world of web developers - where curly braces encompass hearts.  
+We believe the heart has its own syntax, and love can be debugged. 'Connecting Hearts Through Code' is not just a tagline; it's our mission.  
+CodeCupid’s revolutionary ‘CodeChemistry’ algorithm doesn’t just match profiles; it links minds!  
+CodeCupid integrates a user profile, serving as each lovelorn coder's face and command center. Picture a fusion of a social hub and a coder's workspace: users can customize profiles, upload lively photos, and even have a GitHub-like repository for code-sharing and friendly messages. The profile is a coder's canvas, where personality and passion unite, inviting connections beyond just lines of code.  
+Join our mission to create a world where the harmony of hearts mirrors the seamless synchronization of repositories. At CodeCupid, love can be the ultimate code waiting to be deciphered.  
+
+[Travelouge](https://travelogue-app.onrender.com/) - Scott, Cherry, Suri, Ramgel  
+Good morning Charlie And intern partners, thank you for taking the time to come see what RSTech has been working on these past few weeks! My name is Scott Tuschl, I am the product manager, we have Surielis Robles as our Design Lead, Sarah Cherry as our Tech Lead, and Ramgel Romo as our Project Manager, and together with our powers combined we are RSTech!  
+So.. We are Introducing travelogue, an ultimate travel companion. Imagine a world where your travel experiences become beautifully documented stories. Well With travelogue app the user will be able to combine smart trip planning, location(whether it’s international or domestic), journal entries, events and images, ensuring you make the most of your travel experiences. It is the all-in-one travel app that takes the stress out of your journeys.
 
 
 
