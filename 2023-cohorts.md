@@ -75,9 +75,14 @@ Join our mission to create a world where the harmony of hearts mirrors the seaml
 Good morning Charlie And intern partners, thank you for taking the time to come see what RSTech has been working on these past few weeks! My name is Scott Tuschl, I am the product manager, we have Surielis Robles as our Design Lead, Sarah Cherry as our Tech Lead, and Ramgel Romo as our Project Manager, and together with our powers combined we are RSTech!  
 So.. We are Introducing travelogue, an ultimate travel companion. Imagine a world where your travel experiences become beautifully documented stories. Well With travelogue app the user will be able to combine smart trip planning, location(whether it’s international or domestic), journal entries, events and images, ensuring you make the most of your travel experiences. It is the all-in-one travel app that takes the stress out of your journeys.
 
+## Delta 2023  
 
+[Buddy](https://buddy-frontend.onrender.com) - Chris, Jesus, Padge 
+Life is busy, and you don’t always know when you’re going to have free time. Get home from work early on a Tuesday and have a bunch of energy to spend? Chances are your friends aren’t on the same schedule, but we often don’t want to go do things alone. You could sit on the couch and scroll through social media. Or, you could find someone that also wants to do what you want to do, tonight. Introducing Buddy - Pick an activity you want to do, choose who you’d like to do it with, and go have fun. No pre-planning, no scheduling games. Stay active and live your life on your terms, and on your time.
+In Buddy, you can view activities by time, or by type. Create your own, or choose from activities other users have made. You can edit, update, and delete any you’ve created, and view an activity made by anyone.
 
+[Dog Pound Heaven](https://dogpoundheavenfrontend.onrender.com) - Jacob, Miguel, Paul
+It is a sad truth, but not all dogs end up living a life full of love and support. Some end up in dog-shelters. But even then, being caged in most of the time is not a life we think they deserve. At Dog Pound Heaven, our goal is to give them a second chance at life by improving their quality of life, and most importantly bringing back human interaction to them. In our website you are able to see the current dogs we have in our facilities. You can also donate to the cause, and adopt a dog if that is is your interest.
 
-
-
-
+[Eureka Grub](https://eureka-grub-frontend.onrender.com/) - Brandon, Michael, Ricky
+Introducing EurekaGrub! your passport to a culinary revolution! Our project and website are designed to delight your taste buds with an exquisite array of savory, exotic, and downright fun recipes that are guaranteed to make your mouth water. Picture this: Have you ever glanced at a coworker's lunch and felt your curiosity stimulate, or had a friend recommend a dish that left you scratching your head in anticipation? With EurekaGrub, we bring the joy of exploration back to the kitchen, offering a captivating user experience where anyone can create and share their own unique recipes, while discovering a hidden treasures of culinary creations from fellow food enthusiasts. Our ultimate mission? To revolutionize home cooking by introducing a vast collection of quick and efficient recipes spanning flavorful desserts,  tasty main courses, refreshing beverages, and even delightful snacks. EurekaGrub – where culinary dreams become reality.
