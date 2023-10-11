@@ -31,7 +31,7 @@ So sign up today because no one wants an angry kitchen.
 
 ## Bravo 2023
 
-[FAN*C](https://slam-a-jamz.onrender.com/) - Elmer, Evelyn, Nguyen, Valeria \
+[FAN\*C](https://slam-a-jamz.onrender.com/) - Elmer, Evelyn, Nguyen, Valeria \
 What is Slam A Jamz? Have you ever wanted to track your favorite artist and the venues they are preforming at or at or as an artist want more control and exposure over the promotion of your music? Here at Slam A Jamz we offer a range of tools to allow artists the ability to market and promote their upcoming concerts and tours. Artists can also manage their existing shows, create new show postings, and remove old show content. As a fan based user, you can view a list of your favorite artist's upcoming releases.
 
 [Grand Theft AI](https://gtai-frontend.onrender.com/) - Apple, Greg, Nikki, Ray \
@@ -51,33 +51,33 @@ Logged in users can view their watch list to keep track of events
 Click on an event to get full details and visit the artist's Spotify page
 Create new concert postings or update existing events
 
-## Charlie 2023  
+## Charlie 2023
 
 [HoneyHome](https://honey-home.onrender.com/) - Will, Halie, Aubrey, Kyle  
 If you are you tired of juggling multiple home maintenance chores, struggling to keep track of repairs, and feel overwhelmed by the never-ending to-do list, we at Team Whak understand these challenges homeowners face when it comes to maintaining their beloved hive. That's why we created HoneyHome, the ultimate solution to transform the way you manage and maintain your home.
 With HoneyHome, you gain access to a powerful, user-friendly app designed to streamline and simplify your home maintenance tasks through creating a personalized task board. No more stress, confusion, or wasted time.  
-“At HoneyHome we have sweet solutions for home maintenance!”  
+“At HoneyHome we have sweet solutions for home maintenance!”
 
 [Gamer Vault](https://gamer-vault.onrender.com/) - C Rod, Vance, and Jessica  
-Today we are introducing to you Gamer Vault, the ultimate app for game enthusiasts!  Tired of forgetting your favorite games or struggling to find new ones?  Gamer Vault has got you covered.  With our app, you can easily create a personalized favorite list of games you love, while also giving you a nostalgic trip down memory lane!  
+Today we are introducing to you Gamer Vault, the ultimate app for game enthusiasts! Tired of forgetting your favorite games or struggling to find new ones? Gamer Vault has got you covered. With our app, you can easily create a personalized favorite list of games you love, while also giving you a nostalgic trip down memory lane!
 
 [GameVerse](https://gameversefront.onrender.com/) - Yue Han, Justin, Henri  
-If you’re a gamer, who is always searching for that next best title to try, but can never find it, GameVerse is the app for you! Expand out into the GameVerse!  Our user-friendly website application that provides gamers with a convenient and easy-to-use platform to access information from a vast catalog of indie games to AAA blockbuster titles. If you find yourself wondering what game to play more than actually playing, ask our AI to help you find the right game and provide tips and summaries. SignUp join a community of passionate gamers, contribute your favorite titles and expand into the GameVerse.  
+If you’re a gamer, who is always searching for that next best title to try, but can never find it, GameVerse is the app for you! Expand out into the GameVerse! Our user-friendly website application that provides gamers with a convenient and easy-to-use platform to access information from a vast catalog of indie games to AAA blockbuster titles. If you find yourself wondering what game to play more than actually playing, ask our AI to help you find the right game and provide tips and summaries. SignUp join a community of passionate gamers, contribute your favorite titles and expand into the GameVerse.
 
 [CodeCupid](https://code-cupid-front.onrender.com/signup) - Tucker, Ernesto, Bea, Rashaan  
 What if I told you that a semicolon could be the start of a lifelong bond? At CodeCupid; we dive into the unique world of web developers - where curly braces encompass hearts.  
 We believe the heart has its own syntax, and love can be debugged. 'Connecting Hearts Through Code' is not just a tagline; it's our mission.  
 CodeCupid’s revolutionary ‘CodeChemistry’ algorithm doesn’t just match profiles; it links minds!  
 CodeCupid integrates a user profile, serving as each lovelorn coder's face and command center. Picture a fusion of a social hub and a coder's workspace: users can customize profiles, upload lively photos, and even have a GitHub-like repository for code-sharing and friendly messages. The profile is a coder's canvas, where personality and passion unite, inviting connections beyond just lines of code.  
-Join our mission to create a world where the harmony of hearts mirrors the seamless synchronization of repositories. At CodeCupid, love can be the ultimate code waiting to be deciphered.  
+Join our mission to create a world where the harmony of hearts mirrors the seamless synchronization of repositories. At CodeCupid, love can be the ultimate code waiting to be deciphered.
 
 [Travelouge](https://travelogue-app.onrender.com/) - Scott, Cherry, Suri, Ramgel  
 Good morning Charlie And intern partners, thank you for taking the time to come see what RSTech has been working on these past few weeks! My name is Scott Tuschl, I am the product manager, we have Surielis Robles as our Design Lead, Sarah Cherry as our Tech Lead, and Ramgel Romo as our Project Manager, and together with our powers combined we are RSTech!  
 So.. We are Introducing travelogue, an ultimate travel companion. Imagine a world where your travel experiences become beautifully documented stories. Well With travelogue app the user will be able to combine smart trip planning, location(whether it’s international or domestic), journal entries, events and images, ensuring you make the most of your travel experiences. It is the all-in-one travel app that takes the stress out of your journeys.
 
-## Delta 2023  
+## Delta 2023
 
-[Buddy](https://buddy-frontend.onrender.com) - Chris, Jesus, Padge 
+[Buddy](https://buddy-frontend.onrender.com) - Chris, Jesus, Padge
 Life is busy, and you don’t always know when you’re going to have free time. Get home from work early on a Tuesday and have a bunch of energy to spend? Chances are your friends aren’t on the same schedule, but we often don’t want to go do things alone. You could sit on the couch and scroll through social media. Or, you could find someone that also wants to do what you want to do, tonight. Introducing Buddy - Pick an activity you want to do, choose who you’d like to do it with, and go have fun. No pre-planning, no scheduling games. Stay active and live your life on your terms, and on your time.
 In Buddy, you can view activities by time, or by type. Create your own, or choose from activities other users have made. You can edit, update, and delete any you’ve created, and view an activity made by anyone.
 
@@ -85,4 +85,12 @@ In Buddy, you can view activities by time, or by type. Create your own, or choos
 It is a sad truth, but not all dogs end up living a life full of love and support. Some end up in dog-shelters. But even then, being caged in most of the time is not a life we think they deserve. At Dog Pound Heaven, our goal is to give them a second chance at life by improving their quality of life, and most importantly bringing back human interaction to them. In our website you are able to see the current dogs we have in our facilities. You can also donate to the cause, and adopt a dog if that is is your interest.
 
 [Eureka Grub](https://eureka-grub-frontend.onrender.com/) - Brandon, Michael, Ricky
-Introducing EurekaGrub! your passport to a culinary revolution! Our project and website are designed to delight your taste buds with an exquisite array of savory, exotic, and downright fun recipes that are guaranteed to make your mouth water. Picture this: Have you ever glanced at a coworker's lunch and felt your curiosity stimulate, or had a friend recommend a dish that left you scratching your head in anticipation? With EurekaGrub, we bring the joy of exploration back to the kitchen, offering a captivating user experience where anyone can create and share their own unique recipes, while discovering a hidden treasures of culinary creations from fellow food enthusiasts. Our ultimate mission? To revolutionize home cooking by introducing a vast collection of quick and efficient recipes spanning flavorful desserts,  tasty main courses, refreshing beverages, and even delightful snacks. EurekaGrub – where culinary dreams become reality.
+Introducing EurekaGrub! your passport to a culinary revolution! Our project and website are designed to delight your taste buds with an exquisite array of savory, exotic, and downright fun recipes that are guaranteed to make your mouth water. Picture this: Have you ever glanced at a coworker's lunch and felt your curiosity stimulate, or had a friend recommend a dish that left you scratching your head in anticipation? With EurekaGrub, we bring the joy of exploration back to the kitchen, offering a captivating user experience where anyone can create and share their own unique recipes, while discovering a hidden treasures of culinary creations from fellow food enthusiasts. Our ultimate mission? To revolutionize home cooking by introducing a vast collection of quick and efficient recipes spanning flavorful desserts, tasty main courses, refreshing beverages, and even delightful snacks. EurekaGrub – where culinary dreams become reality.
+
+## Echo 2023
+
+[Quizard](https://quizard-u7md.onrender.com/) - Bao, Graham, Raquel
+Quizard at its core, is a dynamic flashcard and quiz application, sprinkled with some game elements. Originally it was a tool to enhance mental acuity for those with Dementia. Transformed into an App that caters to EVERYONE! Whether you're a student aiming for peak academic performance, or an adult looking to keep your brain sharp and agile. Our App Quizard aims to make learning and challenging yourself A fun and colorful experience!
+
+[PintPal](https://pintpal.onrender.com/) - Megan, Mike, Peter
+I would like to introduce you all to PintPal, the ultimate beer enthusiast's companion! With PintPal, you can explore the world of beers like never before. Create an account to review your favorite beers, edit them anytime, and even delete them if your taste should change. Keep track of all your beer adventures with a personalized list of all your reviews. Whether you're a seasoned connoisseur or just starting your journey, PintPal is your go-to app to savor and share the world of flavors, one pint at a time. Join us in raising a glass to the future of beer exploration. Cheers to PintPal!
