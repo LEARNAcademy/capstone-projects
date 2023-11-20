@@ -93,4 +93,15 @@ Introducing EurekaGrub! your passport to a culinary revolution! Our project and 
 Quizard at its core, is a dynamic flashcard and quiz application, sprinkled with some game elements. Originally it was a tool to enhance mental acuity for those with Dementia. Transformed into an App that caters to EVERYONE! Whether you're a student aiming for peak academic performance, or an adult looking to keep your brain sharp and agile. Our App Quizard aims to make learning and challenging yourself A fun and colorful experience!
 
 [PintPal](https://pintpal.onrender.com/) - Megan, Mike, Peter
-I would like to introduce you all to PintPal, the ultimate beer enthusiast's companion! With PintPal, you can explore the world of beers like never before. Create an account to review your favorite beers, edit them anytime, and even delete them if your taste should change. Keep track of all your beer adventures with a personalized list of all your reviews. Whether you're a seasoned connoisseur or just starting your journey, PintPal is your go-to app to savor and share the world of flavors, one pint at a time. Join us in raising a glass to the future of beer exploration. Cheers to PintPal!
+I would like to introduce you all to PintPal, the ultimate beer enthusiast's companion! With PintPal, you can explore the world of beers like never before. Create an account to review your favorite beers, edit them anytime, and even delete them if your taste should change. Keep track of all your beer adventures with a personalized list of all your reviews. Whether you're a seasoned connoisseur or just starting your journey, PintPal is your go-to app to savor and share the world of flavors, one pint at a time. Join us in raising a glass to the future of beer exploration. Cheers to PintPal!  
+
+## Foxtrot 2023  
+
+[The BookClub Avengers](https://bookclub-frontend.onrender.com/) - Xena, Dre, Alejandra  
+The BookClub Avengers is our attempt to make the reading experience less lonely. We believe that reading doesn't have to be an isolating activity. With our app, users are able to create and join different bookclubs, get expose to different genres, and meet other bookworms with shared interests.  
+
+[Brick by Brick](https://brick-by-brick-frontend.onrender.com/) - Mal, Anabella, Shaun and Louis  
+Brick by Brick was created to allow lego builders of all skill levels to create and post they're builds online for other builders to see. Users can create an account, create posts, update past posts or even delete existing posts. Use Brick by Brick to show off or get inspiration for your next one. We look forward to seeing your next build.  
+
+[Ratie Mate](https://frontend-ratiemate.onrender.com/) - Tori, Adrian, Ilene, Roniel  
+Hello, have you ever been unsure of what movie to watch or were in a debate with a friend about what movie was good to you? If so, then we at Ratie Mate have the ultimate movie rating app for you. With Ratie Mate, you're not just a viewer; you're a film connoisseur. Imagine having a trusted friend who knows your taste inside and out, helping you discover the perfect movie for any mood or occasion. Ratie Mate does just that. It's the place where we’ve found hidden gems and classics we would never come across otherwise. Let's turn your movie nights into something extraordinary. Thank you for your time.
