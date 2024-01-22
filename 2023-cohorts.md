@@ -93,15 +93,32 @@ Introducing EurekaGrub! your passport to a culinary revolution! Our project and 
 Quizard at its core, is a dynamic flashcard and quiz application, sprinkled with some game elements. Originally it was a tool to enhance mental acuity for those with Dementia. Transformed into an App that caters to EVERYONE! Whether you're a student aiming for peak academic performance, or an adult looking to keep your brain sharp and agile. Our App Quizard aims to make learning and challenging yourself A fun and colorful experience!
 
 [PintPal](https://pintpal.onrender.com/) - Megan, Mike, Peter
-I would like to introduce you all to PintPal, the ultimate beer enthusiast's companion! With PintPal, you can explore the world of beers like never before. Create an account to review your favorite beers, edit them anytime, and even delete them if your taste should change. Keep track of all your beer adventures with a personalized list of all your reviews. Whether you're a seasoned connoisseur or just starting your journey, PintPal is your go-to app to savor and share the world of flavors, one pint at a time. Join us in raising a glass to the future of beer exploration. Cheers to PintPal!  
+I would like to introduce you all to PintPal, the ultimate beer enthusiast's companion! With PintPal, you can explore the world of beers like never before. Create an account to review your favorite beers, edit them anytime, and even delete them if your taste should change. Keep track of all your beer adventures with a personalized list of all your reviews. Whether you're a seasoned connoisseur or just starting your journey, PintPal is your go-to app to savor and share the world of flavors, one pint at a time. Join us in raising a glass to the future of beer exploration. Cheers to PintPal!
 
-## Foxtrot 2023  
+## Foxtrot 2023
 
 [The BookClub Avengers](https://bookclub-frontend.onrender.com/) - Xena, Dre, Alejandra  
-The BookClub Avengers is our attempt to make the reading experience less lonely. We believe that reading doesn't have to be an isolating activity. With our app, users are able to create and join different bookclubs, get expose to different genres, and meet other bookworms with shared interests.  
+The BookClub Avengers is our attempt to make the reading experience less lonely. We believe that reading doesn't have to be an isolating activity. With our app, users are able to create and join different bookclubs, get expose to different genres, and meet other bookworms with shared interests.
 
 [Brick by Brick](https://brick-by-brick-frontend.onrender.com/) - Mal, Anabella, Shaun and Louis  
-Brick by Brick was created to allow lego builders of all skill levels to create and post they're builds online for other builders to see. Users can create an account, create posts, update past posts or even delete existing posts. Use Brick by Brick to show off or get inspiration for your next one. We look forward to seeing your next build.  
+Brick by Brick was created to allow lego builders of all skill levels to create and post they're builds online for other builders to see. Users can create an account, create posts, update past posts or even delete existing posts. Use Brick by Brick to show off or get inspiration for your next one. We look forward to seeing your next build.
 
 [Ratie Mate](https://frontend-ratiemate.onrender.com/) - Tori, Adrian, Ilene, Roniel  
 Hello, have you ever been unsure of what movie to watch or were in a debate with a friend about what movie was good to you? If so, then we at Ratie Mate have the ultimate movie rating app for you. With Ratie Mate, you're not just a viewer; you're a film connoisseur. Imagine having a trusted friend who knows your taste inside and out, helping you discover the perfect movie for any mood or occasion. Ratie Mate does just that. It's the place where we’ve found hidden gems and classics we would never come across otherwise. Let's turn your movie nights into something extraordinary. Thank you for your time.
+
+## Hotel 2023
+
+[AutoForge](https://auto-forge.onrender.com/) - Jackson, Jean, Jonathan, Justin
+AutoForge is an app that transforms individual automotive pursuits into a valuable resource, providing guidance and inspiration to fellow enthusiasts.
+
+[Cuisine Crafter](https://cuisinecrafter.onrender.com/) - Joseph M, Oscar, M, Zenia
+Cuisine Crafter, a user-friendly website that simplifies recipe discovery by searching through a diverse collection of recipes. Leveraging an API, the platform allows users to filter recipes based on their ingredient preferences.
+
+[KeggedOut](https://keggedout.onrender.com/) - Alex, Chandler, Dalton, Danny
+Hey there, fellow beer enthusiasts! We're the Kegged Out, a dynamic quartet on a mission to explore the vast and tantalizing world of breweries and craft beer. United by our unwavering passion for the art of brewing, we've come together to share our experiences, insights, and the sheer joy of sipping on some exceptional brews.
+
+[MovieArks](https://movie-arks.onrender.com/) - AC, Kevin, Ron, Sam
+Do you ever wonder if a movie review is reliable or not? Do you feel like the current movie review sites are flooded with bot filled reviews that give a false scoring of a movie? If so, then do we have a solution for you! Here at Movie Arks our movie reviews are STRICTLY based on the average movie enjoyer and not some Hollywood biased critic. Search through our vast library of movie titles and reviews to see what your next movie adventure will be! Leave a review for a movie!
+
+[Passenger](https://passenger-front.onrender.com/) - Andre, Anthony, Emery, Joseph K
+Passenger is an application that allows users to make an account and upoload the destinations they would like to share to the platform! When adding a destination, users are required to enter a Location, Language, Climate, Description and image. Upon submission, the new destination will populate on the page. Decide you feel differently about that place or trip? Use the Edit Destination button to change up your description or any other details! Bad memories attached to that place? Well, go ahead and delete the destination all together! You will no longer see that darned place on your screen.
