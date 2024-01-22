@@ -108,16 +108,16 @@ Hello, have you ever been unsure of what movie to watch or were in a debate with
 
 ## Hotel 2023
 
-[AutoForge](https://auto-forge.onrender.com/) - Jackson, Jean, Jonathan, Justin
+[AutoForge](https://auto-forge.onrender.com/) - Jackson, Jean, Jonathan, Justin <br>
 AutoForge is an app that transforms individual automotive pursuits into a valuable resource, providing guidance and inspiration to fellow enthusiasts.
 
-[Cuisine Crafter](https://cuisinecrafter.onrender.com/) - Joseph M, Oscar, M, Zenia
+[Cuisine Crafter](https://cuisinecrafter.onrender.com/) - Joseph M, Oscar, M, Zenia <br>
 Cuisine Crafter, a user-friendly website that simplifies recipe discovery by searching through a diverse collection of recipes. Leveraging an API, the platform allows users to filter recipes based on their ingredient preferences.
 
-[KeggedOut](https://keggedout.onrender.com/) - Alex, Chandler, Dalton, Danny
+[KeggedOut](https://keggedout.onrender.com/) - Alex, Chandler, Dalton, Danny<br>
 Hey there, fellow beer enthusiasts! We're the Kegged Out, a dynamic quartet on a mission to explore the vast and tantalizing world of breweries and craft beer. United by our unwavering passion for the art of brewing, we've come together to share our experiences, insights, and the sheer joy of sipping on some exceptional brews.
 
-[MovieArks](https://movie-arks.onrender.com/) - AC, Kevin, Ron, Sam
+[MovieArks](https://movie-arks.onrender.com/) - AC, Kevin, Ron, Sam <br>
 Do you ever wonder if a movie review is reliable or not? Do you feel like the current movie review sites are flooded with bot filled reviews that give a false scoring of a movie? If so, then do we have a solution for you! Here at Movie Arks our movie reviews are STRICTLY based on the average movie enjoyer and not some Hollywood biased critic. Search through our vast library of movie titles and reviews to see what your next movie adventure will be! Leave a review for a movie!
 
 [Passenger](https://passenger-front.onrender.com/) - Andre, Anthony, Emery, Joseph K
