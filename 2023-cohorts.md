@@ -106,6 +106,22 @@ Brick by Brick was created to allow lego builders of all skill levels to create 
 [Ratie Mate](https://frontend-ratiemate.onrender.com/) - Tori, Adrian, Ilene, Roniel  
 Hello, have you ever been unsure of what movie to watch or were in a debate with a friend about what movie was good to you? If so, then we at Ratie Mate have the ultimate movie rating app for you. With Ratie Mate, you're not just a viewer; you're a film connoisseur. Imagine having a trusted friend who knows your taste inside and out, helping you discover the perfect movie for any mood or occasion. Ratie Mate does just that. It's the place where we’ve found hidden gems and classics we would never come across otherwise. Let's turn your movie nights into something extraordinary. Thank you for your time.
 
+## Golf 2023
+
+[MixItUp](https://mixitup.onrender.com/) - Corey, Derek, Jacob, Markayel <br>
+Tired of the same old recipes? Need some new flavor in your life? Well welcome to Mix it up! Here you can browse a selection of recipes that will change your life. Our recipes are easy to make and delicious. They come with a list of all the ingredients you will need. Have a recipe you love? Share it! At Mix it up, we encourage users to share their plates. So what are you waiting for? Sign up and let's see what you can Mix up.
+
+[Laugh Host:3001](https://laughhost3001.onrender.com/) - Gregory, Patsy, Enrique, Sean <br>
+We, the laughing llamas, aim to bring comedy and light-hearted humor to a widespread audience. Have you ever felt the need to store a silly or revolting recipe? Or maybe you just needed a quick laugh? Fret not, we’ve got you covered with Laugh Host:3001. Here, you can create, edit, and delete your silliest and most revolting recipes, receive a randomly generated joke, and access a Pig Latin Translator, all so you can tickle your and your friends’ funny bones.
+
+[Shot Caller](https://shotcaller.onrender.com/) - Eric, Franz, Jeffrey, Michael <br>
+Have you ever wanted to find games around you in real time, or the
+opposite, find empty parks to get some practice in? Well this app
+aims to create a real-time map of basketball courts, allowing users
+to check for nearby games. It fosters spontaneous connections among
+basketball enthusiasts, enhancing the overall experience for players
+looking for a pickup game.
+
 ## Hotel 2023
 
 [AutoForge](https://auto-forge.onrender.com/) - Jackson, Jean, Jonathan, Justin <br>
