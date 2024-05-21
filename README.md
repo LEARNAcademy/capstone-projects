@@ -6,6 +6,8 @@ Video demos can be found on several projects. Enjoy!
 
 [2023 Cohorts](./2023-cohorts.md)
 
+[2024 Cohorts](./2024-cohorts.md)
+
 [2022 Cohorts](./2022-cohorts.md)
 
 [2021 Cohorts](./2021-cohorts.md)
